@@ -1,0 +1,30 @@
+[
+	{
+		"ccyPair": "EURUSD",
+		"tradeDate": "2016-08-11",
+		"valueDate": "2016-08-16",
+		"type": "Spot",
+		"errors": [
+			{
+				"field": "valueDate",
+				"message": "is not two days from tradeDate"
+			}
+		],
+		"customer": "PLUTO1",
+		"legalEntity": "CS Zurich"
+	},
+	{
+		"ccyPair": "EURUSD",
+		"tradeDate": "2016-08-11",
+		"valueDate": "2016-08-16",
+		"type": "Spot",
+		"errors": [
+			{
+				"field": "valueDate",
+				"message": "is not two days from tradeDate"
+			}
+		],
+		"customer": "PLUTO2",
+		"legalEntity": "CS Zurich"
+	}
+]

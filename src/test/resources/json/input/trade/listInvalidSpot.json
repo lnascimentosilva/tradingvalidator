@@ -1,0 +1,18 @@
+[
+	{
+		"customer": "PLUTO1",
+		"ccyPair": "EURUSD",
+		"type": "Spot",
+		"tradeDate": "2016-08-11",
+		"valueDate": "2016-08-16",
+		"legalEntity": "CS Zurich"
+	},
+	{
+		"customer": "PLUTO1",
+		"ccyPair": "EURUSD",
+		"type": "Spot",
+		"tradeDate": "2016-08-11",
+		"valueDate": "2016-08-16",
+		"legalEntity": "CS Zurich"
+	}
+]
